@@ -1,15 +1,21 @@
 _repo: Engelbrekt-Engelbrektinpoika-II_47504
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Petrelius, K. A.
     gutenberg_agent_id: '44350'
     url: http://www.gutenberg.org/2009/agents/44350
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Starbäck, Carl Georg
     gutenberg_agent_id: '44349'
     url: http://www.gutenberg.org/2009/agents/44349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47504#Engelbrekt-Engelbrektinpoika-II
 gutenberg_issued: '2014-11-30'
 gutenberg_type: Text
 identifiers:
